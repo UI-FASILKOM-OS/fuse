@@ -6,7 +6,7 @@
 * [GitHub Pages](https://fuse.vlsm.org/)
 
 <br>
-<img src="os201.png"  width="950">
+<img src="fuse.jpg"  width="950">
 <br>
 
 Jolan Tru!
