@@ -6,8 +6,11 @@
 * [GitHub Pages](https://fuse.vlsm.org/)
 
 * <https://github.com/libfuse/libfuse>
+* <https://github.com/libfuse/libfuse/wiki/Filesystems>
 * <https://github.com/s3fs-fuse/s3fs-fuse>
 * <https://libfuse.github.io/doxygen/>
+* <http://libfuse.github.io/doxygen/files.html>
+* <http://libfuse.github.io/doxygen/fast17-vangoor.pdf>
 
 * <https://stackoverflow.com/questions/4714056/how-to-implement-a-very-simple-filesystem/>
 
@@ -27,8 +30,10 @@
 * <https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createfilea>
 * <https://engineering.facile.it/blog/eng/write-filesystem-fuse/>
 * <http://elm-chan.org/fsw/ff/00index_e.html>
+* <https://linuxconfig.org/how-to-mount-partition-with-ntfs-file-system-and-read-write-access>
 * <https://maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/>
 * <https://pramode.net/articles/lfy/fuse/pramode.html>
+* <https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh>
 
 <br>
 <img src="fuse.jpg"  width="950">
