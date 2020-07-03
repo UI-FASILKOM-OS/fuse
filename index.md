@@ -13,6 +13,8 @@
 * <https://www.cs.hmc.edu/~geoff/classes/hmc.cs135.201001/homework/fuse/fuse_doc.html>
 * <https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/>
 
+* <https://maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/>
+
 * <https://www.slideshare.net/adorepump/building-file-systems-with-fuse>
 * <https://www.slideshare.net/adorepump/fuse-developing-fillesystems-in-userspace>
 * <https://www.slideshare.net/cmoulliard/fuse-technology2015>
