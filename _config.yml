@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
-description: (V005-20200703) This is Fuse.
+description: (V006-20200703) This is Fuse.
 sitemap: true
 plugins:
   - jekyll-sitemap
