@@ -1,6 +1,10 @@
 ---
 ---
-# Welcome to FUSE
+# FUSE Link
+
+These links are as current as 
+July 2020.
+Some of those links will disappear soon.
 
 * [GitHub](https://github.com/UI-FASILKOM-OS/fuse)
 * [GitHub Pages](https://fuse.vlsm.org/)
@@ -29,13 +33,14 @@
 * <https://www.slideshare.net/eurobsdcon/perfuse-slides>
 
 * <https://ceph.com/dev-notes/linus-vs-fuse/>
+* <https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh>
+* <https://developer.ibm.com/technologies/linux/articles/l-fuse/>
 * <https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createfilea>
 * <https://engineering.facile.it/blog/eng/write-filesystem-fuse/>
 * <http://elm-chan.org/fsw/ff/00index_e.html>
-* <https://linuxconfig.org/how-to-mount-partition-with-ntfs-file-system-and-read-write-access>
 * <https://maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/>
 * <https://pramode.net/articles/lfy/fuse/pramode.html>
-* <https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh>
+* <https://linuxconfig.org/how-to-mount-partition-with-ntfs-file-system-and-read-write-access>
 
 <br>
 <img src="fuse.jpg"  width="950">
