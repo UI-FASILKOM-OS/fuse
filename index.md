@@ -4,7 +4,7 @@
 
 These links are as current as 
 July 2020.
-Some of those links will disappear soon.
+Sooner or later, some of those links will disappear.
 
 * [GitHub](https://github.com/UI-FASILKOM-OS/fuse)
 * [GitHub Pages](https://fuse.vlsm.org/)
