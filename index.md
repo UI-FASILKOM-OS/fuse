@@ -37,9 +37,9 @@ Some of those links will disappear soon.
 * <https://developer.ibm.com/technologies/linux/articles/l-fuse/>
 * <https://docs.microsoft.com/en-us/windows/win32/api/fileapi/nf-fileapi-createfilea>
 * <https://engineering.facile.it/blog/eng/write-filesystem-fuse/>
-* <http://elm-chan.org/fsw/ff/00index_e.html>
 * <https://maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/>
 * <https://pramode.net/articles/lfy/fuse/pramode.html>
+* <http://elm-chan.org/fsw/ff/00index_e.html>
 * <https://linuxconfig.org/how-to-mount-partition-with-ntfs-file-system-and-read-write-access>
 * <http://www.oug.org/files/presentations/losug-fuse.pdf>
 
