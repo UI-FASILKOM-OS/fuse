@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
-description: "(V017-20200705): FUSE -- Filesystems in User Space"
+description: "(V018-20200705): FUSE -- Filesystems in User Space"
 sitemap: true
 plugins:
   - jekyll-sitemap

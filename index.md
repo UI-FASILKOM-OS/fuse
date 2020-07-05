@@ -41,6 +41,7 @@ Some of those links will disappear soon.
 * <https://maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/>
 * <https://pramode.net/articles/lfy/fuse/pramode.html>
 * <https://linuxconfig.org/how-to-mount-partition-with-ntfs-file-system-and-read-write-access>
+* <http://www.oug.org/files/presentations/losug-fuse.pdf>
 
 <br>
 <img src="fuse.jpg"  width="950">
