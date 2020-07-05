@@ -14,6 +14,7 @@
 * <https://libfuse.github.io/doxygen/fast17-vangoor.pdf>
 
 * <https://en.wikipedia.org/wiki/MINIX_file_system>
+* <https://wiki.osdev.org/FUSE>
 
 * <https://stackoverflow.com/questions/4714056/how-to-implement-a-very-simple-filesystem/>
 
