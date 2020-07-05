@@ -7,14 +7,15 @@
 
 * <https://github.com/libfuse/libfuse>
 * <https://github.com/libfuse/libfuse/wiki/Filesystems>
+* <https://github.com/kiorky/jmtpfs>
 * <https://github.com/s3fs-fuse/s3fs-fuse>
 * <https://libfuse.github.io/doxygen/>
-* <http://libfuse.github.io/doxygen/files.html>
-* <http://libfuse.github.io/doxygen/fast17-vangoor.pdf>
-
-* <https://stackoverflow.com/questions/4714056/how-to-implement-a-very-simple-filesystem/>
+* <https://libfuse.github.io/doxygen/files.html>
+* <https://libfuse.github.io/doxygen/fast17-vangoor.pdf>
 
 * <https://en.wikipedia.org/wiki/MINIX_file_system>
+
+* <https://stackoverflow.com/questions/4714056/how-to-implement-a-very-simple-filesystem/>
 
 * <https://www.cs.cmu.edu/~./fp/courses/15213-s07/lectures/15-filesys/>
 * <https://www.cs.hmc.edu/~geoff/classes/hmc.cs135.201001/homework/fuse/fuse_doc.html>
