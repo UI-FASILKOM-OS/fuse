@@ -1,8 +1,12 @@
-theme: jekyll-theme-midnight
-description: "(V020-20200705): FUSE -- Filesystems in User Space"
+theme: jekyll-theme-hacker
+description: (V021-20200810)
+      FUSE -- Filesystems in User Space.<br>
+      This site is managed by VauLSMorg (vlsm.org) since 2020.
+google_analytics: UA-89852122-6
 sitemap: true
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
 github: [metadata]
 
